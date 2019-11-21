@@ -1,2 +1,8 @@
-# rentomojo
-Rentomojo Mock Application
+Run  
+
+### `yarn`
+
+then 
+
+### `yarn start`
+to start the project

@@ -1,0 +1,43 @@
+.header{
+  padding: 12px;
+  border-bottom: 1px solid #666;
+}
+
+.pagination_icon{
+  padding: 3px 8px;
+  color: #fff;
+  background: rgb(55, 71, 218);
+  display: inline-block;
+  margin: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.comment_block {
+  border: 1px solid #666;
+  padding: 12px;
+  margin: 12px;
+  max-width: 200px;
+}
+
+.comments_name {
+  font-size: 14px;
+  display: block;
+}
+
+.comments_email {
+  font-size: 11px;
+  color: #666;
+  display: block;
+}
+
+.comments_body {
+  font-size: 12px;
+  display: block;
+}
+
+#spinner{
+  width: 36px;
+  height: 36px;
+  display: none;
+}
